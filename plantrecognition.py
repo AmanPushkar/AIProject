@@ -30,7 +30,7 @@ warnings.filterwarnings("ignore")
 ## total five classes are used here which are Neem,Mint,Curry,Arjun,March Pennywort
 ## all of them have different nubers of leaf in the drive for training and testing the image processing model
 categories=['Neem Leaf','Mint Leaf','Curry Leaf','Arjun Leaf','Marsh Pennywort Leaf']
-dir_path='Augmented Images/Augmented Images'
+dir_path='Augmented Images'
 dir_path=''
 dataset=[]
 SIZE=256
